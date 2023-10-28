@@ -1,0 +1,7 @@
+1,Physics,A1,1999,2,200.0
+2,Solitude,New Author,222,34,210.0
+3,The Murder of History,KK Aziz,1993,169,5000.0
+4,Nuh,MyIslam,2011,45,2000.0
+5,Yousaf,MyIslam,2012,15,1500.0
+6,The fault in our stars,John Green,2015,0,5000.0
+7,New,Me,2023,0,15000.0
